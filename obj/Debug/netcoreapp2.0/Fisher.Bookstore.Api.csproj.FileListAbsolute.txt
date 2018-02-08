@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.deps.json
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.runtimeconfig.json
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.runtimeconfig.dev.json
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.dll
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.pdb
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.AssemblyInfo.cs
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.dll
+C:\Users\Alex\Documents\Spring 2018\ACCTMIS 3610\Workspace\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.pdb
